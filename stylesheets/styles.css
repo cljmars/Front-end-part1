@@ -50,7 +50,7 @@ body {
   flex-direction: column;
 }
 
-a[href="#"] {
+a {
   /* style declaration */
   text-decoration: none;
 }
@@ -127,7 +127,7 @@ a[href="#"] {
  .thumbnail-item {
  max-width: 260px;
  }
- 
+
  .thumbnail-item + .thumbnail-item {
  margin-top: 20px;
  }
